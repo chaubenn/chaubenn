@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ben Chau </h1>
+<h1 align="center">Hi 👋 I'm Ben </h1>
 
 # 💫 About Me:
 I am a second-year Mathematics & Computer Science student at the University of Queensland, passionate about exploring the realms of coding, machine learning, and building robust full-stack applications.
