@@ -6,7 +6,7 @@ I am a second-year Mathematics & Computer Science student at the University of Q
 ## 🚀 What I'm Up To
 
 - 🤖 Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
-- 💻 Preparing for internship interviews 
+- 💻 Preparing for my first internship!
   
 
 ## 🎓 About Me
