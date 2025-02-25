@@ -5,7 +5,7 @@ I am a second-year Mathematics & Computer Science student at the University of Q
 
 ## 🚀 What I'm Up To
 
-- 🤖 Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath) (so much data entry at the moment 😭
+- 🤖 Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath) (so much data entry at the moment 😭)
 - 💻 Preparing for my first day at my new job
   
 
