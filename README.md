@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Ben </h1>
 
-# 💫 About Me:
-I am a second-year Mathematics & Computer Science student at the University of Queensland, passionate about exploring the realms of coding, machine learning, and building robust full-stack applications.
+A second-year Mathematics & Computer Science student at the University of Queensland, passionate about exploring the realms of coding, machine learning, and building robust full-stack applications.
+
+Want to know more? View my [resume!](https://github.com/user-attachments/files/19104556/CHAU__Benjamin_2025_Resume.pdf)
 
 ## 🚀 What I'm Up To
 
