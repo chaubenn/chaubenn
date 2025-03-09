@@ -8,7 +8,7 @@ Want to know more? View my [resume!](https://github.com/user-attachments/files/1
 ## 🚀 What I'm Up To
 
 - 🤖 Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath) (so much data entry at the moment 😭)
-- 💻 Preparing for my first day at my new job
+- 💻 Designing portfolio website
   
 
 ## 🎓 About Me
