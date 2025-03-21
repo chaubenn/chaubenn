@@ -5,9 +5,7 @@ A second-year Mathematics & Computer Science student at the University of Queens
 
 ## What I'm Up To
 
-- Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
-- Designing portfolio website
-  
+- Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)  
 
 ## About Me
 
