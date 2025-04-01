@@ -9,7 +9,7 @@ A second-year Mathematics & Computer Science student at the University of Queens
 
 ## About Me
 
-In my spare time, I enjoy playing volleyball. I'm also currently coaching a grade 7 team at my old high school. 
+In my spare time, I enjoy playing volleyball. I'm also recently finished coaching a grade 7 team at my old high school. 
 
 - [Hudl Highlights](https://www.hudl.com/video/3/17388552/63f358a95eec2607f042bdc7)
 
