@@ -6,7 +6,7 @@ A second-year Mathematics & Computer Science student at the University of Queens
 ## What I'm Up To
 
 - Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
-- Dipping feet in DevOps @ work: learning Docker and Kubernetes
+- At my internship, I've been dipping my feet in DevOps; learning Docker and Kubernetes!
 
 ## About Me
 
