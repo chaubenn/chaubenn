@@ -5,7 +5,8 @@ A second-year Mathematics & Computer Science student at the University of Queens
 
 ## What I'm Up To
 
-- Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)  
+- Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
+- Dipping feet in DevOps @ work: learning Docker and Kubernetes
 
 ## About Me
 
