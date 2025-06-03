@@ -7,7 +7,7 @@ A second-year Mathematics & Computer Science student at the University of Queens
 
 - Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
 - QA Interning @ TinyMCE
-- Studying for finals :(
+- Studying for finals 
 
 ## About Me
 
