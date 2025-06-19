@@ -6,9 +6,8 @@ A second-year Mathematics & Computer Science student at the University of Queens
 ## What I'm Up To
 
 - Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
-- QA Interning @ TinyMCE
-- Studying for finals 
-
+- Full-time Intern @ TinyMCE
+  
 ## About Me
 
 In my spare time, I enjoy playing volleyball. I'm also recently finished coaching a grade 7 team at my old high school. 
