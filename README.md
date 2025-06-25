@@ -1,13 +1,15 @@
 
-## What I'm Up To 
+## what i'm up to
 
 I'm currently on semester break. 
 
-- Building, finalising and branding [OzMath](https://github.com/chaubenn/ozmath)
-- Full time QA Intern @ TinyMCE
+- building, finalising and branding [ozmath](https://github.com/chaubenn/ozmath)
+- full time qa intern @ tinymce
   
-## Fun Fact
+## fun fact
 
-One of my (old) hobbies is volleyball. Earlier this year, I coached a grade 7 team at my old high school, where we won a premiership! 
+one of my (old) hobbies is volleyball. earlier this year, i coached a grade 7 team at my old high school, where we won a premiership! 
+- [some of my old highlights from high school...](https://www.hudl.com/video/3/17388552/63f358a95eec2607f042bdc7)
 
-- [Hudl Highlights](https://www.hudl.com/video/3/17388552/63f358a95eec2607f042bdc7)
+i'm a big fan of tactial fps-shooters. i compete semi-professionally in a game called valorant 
+- [youtube channel](https://www.youtube.com/@rahjin) | [vlr profile](https://www.vlr.gg/player/55595/rajin)
