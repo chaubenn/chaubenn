@@ -1,7 +1,7 @@
 
 ## what i'm up to
 
-I'm recently got off semester break. 
+I recently got off semester break. 
 
 - studying (COMP3506, MATH2001, COMP2011, COMP2140)
 - building, finalising and branding [ozmath](https://github.com/chaubenn/ozmath)
