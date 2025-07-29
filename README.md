@@ -1,10 +1,11 @@
 
 ## what i'm up to
 
-I'm currently on semester break. 
+I'm recently got off semester break. 
 
+- studying (COMP3506, MATH2001, COMP2011, COMP2140)
 - building, finalising and branding [ozmath](https://github.com/chaubenn/ozmath)
-- full time qa intern @ tinymce
+- qa intern @ tinymce
   
 ## fun facts
 
