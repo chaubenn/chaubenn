@@ -1,7 +1,6 @@
 
 ## what i'm up to
 
-- studying
 - building [ozmath](https://github.com/chaubenn/ozmath)
 - qa intern @ tinymce
   
