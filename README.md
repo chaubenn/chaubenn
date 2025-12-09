@@ -13,4 +13,4 @@ i grew up playing video games, and have competed semi-professionally in valorant
 - [youtube channel](https://www.youtube.com/@rahjin) | [vlr profile](https://www.vlr.gg/player/55595/rajin)
 
 i'm currently obsessed with solving rubiks cubes
-- [my wca profile](https://www.worldcubeassociation.org/persons/2025CHAU18)
+- [wca profile](https://www.worldcubeassociation.org/persons/2025CHAU18)
