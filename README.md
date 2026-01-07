@@ -1,8 +1,8 @@
 
-## what i'm up to
+## about me
 
-- building [ozmath](https://github.com/chaubenn/ozmath)
-- qa intern @ tinymce
+i'm a third year cs student from the university of queensland & am currently building [ozmath](https://ozmath.com)
+- [personal website](https://chaubenn.netlify.app/)
   
 ## fun facts
 
@@ -14,3 +14,5 @@ i grew up playing video games, and have competed semi-professionally in valorant
 
 i'm currently obsessed with solving rubiks cubes
 - [wca profile](https://www.worldcubeassociation.org/persons/2025CHAU18)
+
+
