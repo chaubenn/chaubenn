@@ -1,15 +1,17 @@
 
 ## about me
 
-i'm a third year cs student from the university of queensland & am currently building [ozmath](https://ozmath.com)
+i'm a third year cs student from the university of queensland,
+
+currently building [ozmath](https://ozmath.com) and interning at tinymce as a QA. 
 - [personal website](https://chaubenn.netlify.app/)
   
 ## fun facts
 
-earlier this year, i coached a grade 7 team at my old high school, where we won a premiership
+in 2025, i coached a grade 7 team at my old high school, where we won a premiership
 - [some of my old highlights from high school](https://www.hudl.com/video/3/17388552/63f358a95eec2607f042bdc7)
 
-i grew up playing video games, and have competed semi-professionally in valorant...
+i grew up playing video games, and have competed semi-professionally in valorant
 - [youtube channel](https://www.youtube.com/@rahjin) | [vlr profile](https://www.vlr.gg/player/55595/rajin)
 
 i'm currently obsessed with solving rubiks cubes
