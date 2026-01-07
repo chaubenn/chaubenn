@@ -1,7 +1,9 @@
 
 ## about me
 
-i'm a third year cs student from the university of queensland, currently building [ozmath](https://ozmath.com) and interning at tinymce as a QA. 
+i'm a third year cs student from the university of queensland. 
+
+i've recently been working on [ozmath](https://ozmath.com) and interning at tinymce as a QA. 
 - [personal website](https://chaubenn.netlify.app/)
   
 ## fun facts
